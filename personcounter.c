@@ -1,13 +1,12 @@
-/* Copyright © reserved to Ayush and Avinash
- * TEAM MEMBERS : AYUSH GOSWAMI,AVINASH PRASAD,INDROJEET DUTTA 
+/* 
+ * TEAM MEMBERS : AYUSH GOSWAMI,AVINASH PRASAD
  * PERSON COUNTER AND TIME DISPLAY
  *
  * This program displays the timing in mm:ss & counts the no of person inside the shopping mall;
  * ATmega8 should be clocked from a 12MHz crystal
- * Created: 05-04-2018 PM 11:47:49
  * Author:Ayush & Avinash
  * 16ECE047 & 16ECE026 
- * 2nd year b_tech ,Giet Gunupur 
+ * b_tech ,Giet Gunupur 
  */
 
 
